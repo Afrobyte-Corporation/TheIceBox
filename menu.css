@@ -1,6 +1,6 @@
 body{ background: radial-gradient(circle, #3498db 10%, transparent 20%),
     radial-gradient(circle, transparent 10%, #3498db 20%);
-  background-size: 30px 30px; /* Adjust the size of the pattern */
+  background-size: 55px 55px; /* Adjust the size of the pattern */
   animation: moveBackground 8s linear infinite; /* Adjust the animation duration and timing function */
 }
 
