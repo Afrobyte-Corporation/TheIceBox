@@ -1,6 +1,6 @@
 body{ background: radial-gradient(circle, #3498db 10%, transparent 20%),
     radial-gradient(circle, transparent 10%, #3498db 20%);
-  background-size: 55px 55px; /* Adjust the size of the pattern */
+  background-size: 30px 30px; /* Adjust the size of the pattern */
   animation: moveBackground 8s linear infinite; /* Adjust the animation duration and timing function */
 }
 
@@ -28,18 +28,23 @@ body{ background: radial-gradient(circle, #3498db 10%, transparent 20%),
 
   
   
+  .navbar li{
+    float:left;
+    text-align: center;
+    font-size: 22px;
+}
 
 
 
 #brand {
     font-family: 'choko';
-    font-size: 2rem;
+    font-size: 38px;
     color:rgb(10, 99, 233) ;
     mix-blend-mode: multiply;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 16px;
+    padding: 17px;
 }
 
 .navbar-brand{
